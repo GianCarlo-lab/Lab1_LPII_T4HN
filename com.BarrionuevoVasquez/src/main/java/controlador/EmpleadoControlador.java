@@ -8,7 +8,7 @@ import modelos.Empleado;
 
 public class EmpleadoControlador {	
 	
-	//--------------------------------------------------------//
+	//--------------------------------------------------------a//
 	
 	@SuppressWarnings("deprecation")
 	public String createEmpleado(String apellidoEmpleado, String nombreEmpleado, String edadEmpleado, String sexoEmpleado, Double salarioEmpleado) {

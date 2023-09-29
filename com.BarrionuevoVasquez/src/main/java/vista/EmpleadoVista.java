@@ -2,7 +2,7 @@ package vista;
 
 import controlador.EmpleadoControlador;
 
-public class EmpleadoVista {
+public class EmpleadoVista {//
 
 	public static void main(String[] args) {
 		
@@ -16,7 +16,7 @@ public class EmpleadoVista {
 		
 		
 		//String empleado = new EmpleadoControlador().deleteEmpleado(12); System.out.println(empleado);
-		
+		//
 	}
 
 }

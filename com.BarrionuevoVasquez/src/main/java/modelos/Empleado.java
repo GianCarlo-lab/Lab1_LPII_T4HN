@@ -1,7 +1,7 @@
 package modelos;
 
 import jakarta.persistence.*;
-
+////
 @Entity
 @Table(name = "empleado")
 public class Empleado {
